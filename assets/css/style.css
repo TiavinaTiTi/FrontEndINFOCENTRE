@@ -1,0 +1,47 @@
+*{
+   font-family: Calibri, Arial, Sans-serif;
+}
+.bg-linear {
+    background: linear-gradient(170deg, #56b4b7 50%, #f6f0e9 50%);
+    background-repeat: no-repeat;
+}
+
+.bg-color-1 {
+    background: #a2cdb8;
+}
+
+.mt-6 {
+    margin-top: 80px;
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+
+
+.height-200 {
+    height: 210px;
+}
+
+.height-150 {
+    height: 150px;
+}
+
+.height-120 {
+    height: 130px;
+}
+
+.height-80 {
+    height: 80px;
+}
+
+.height-60 {
+    height: 60px;
+}
+
+.border-custom{
+    border: 2px solid aliceblue;
+    padding: 2px;
+    border-radius: 10px;
+}
